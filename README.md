@@ -1,2 +1,2 @@
 # gentepet
-gentepet material
+http://aletop5.github.io/gentepet
